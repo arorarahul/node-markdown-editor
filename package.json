@@ -1,0 +1,23 @@
+{
+  "name": "markdown",
+  "version": "1.0.0",
+  "description": "real time markdown editor with a shareable URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "markdown",
+    "showdownjs"
+  ],
+  "author": "Rahul Arora",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.1",
+    "redis": "^2.6.5",
+    "share": "^0.7.40"
+  }
+}
